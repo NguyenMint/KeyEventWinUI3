@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "poolkyfYLK80sWHeUlgNIr9h+iZVF/OcHGZ3PjD1On2jDWX65bfBulLkW/+axpQSVdol4n9Gl2Lx8pjQyvr99A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\truon\\Downloads\\KeyEventWinUI3\\keywinui\\keywinui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.230217.4\\microsoft.windowsappsdk.1.2.230217.4.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.16\\microsoft.netcore.app.crossgen2.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.16\\microsoft.netcore.app.runtime.win-arm64.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

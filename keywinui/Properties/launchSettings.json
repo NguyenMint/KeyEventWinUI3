@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "keywinui (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "keywinui (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
